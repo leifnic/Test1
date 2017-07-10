@@ -5,7 +5,7 @@ OBJECT Table 36 Sales Header
     Date=16-06-17;
     Time=12:19:44;
     Modified=Yes;
-    Version List=NAVW18.00.00.38457,NAVDK8.00.00.38457,PM8.00.00.2.14,SYS1.38,XXX;
+    Version List=NAVW18.00.00.38457,NAVDK8.00.00.38457,PM8.00.00.2.14,SYS1.38,XXX, YYY;
   }
   PROPERTIES
   {
